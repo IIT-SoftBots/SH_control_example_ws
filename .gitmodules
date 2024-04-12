@@ -1,0 +1,3 @@
+[submodule "qbAPI"]
+	path = qbAPI
+	url = https://github.com/NMMI/qbAPI.git
